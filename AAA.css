@@ -1,0 +1,74 @@
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+    border: 5px #1d2f30 solid;
+    background: #1d2f30;
+    display: flex;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+    color: white;
+}
+
+div {
+    color: rgb(63, 22, 22);
+}
+.head1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.cardm {
+    border: #0b1919 2px solid;
+    width: 10em;
+    padding: yy;
+}
+
+section {
+    padding: 60px;
+    background-color: #1d2f30;
+}
+.sc1 {
+    background-image: url("фон с1.jpg");
+    width: 100%;
+    height: 300px;
+}
+.sc2 {
+    background-color: #1d2f30;
+    display: flex;
+    justify-content:center;
+    gap: 15px;
+}
+
+h1 {
+    color: white;
+    width: 20em;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+}
+.sc1 {
+    color: #bae249;
+}
+
+p {
+    color: white;
+}
+.sc11 {
+    width: 20em;
+    font-size:larger;
+    
+}
+
+
+
+
+
